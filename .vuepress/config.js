@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'VuePress-NetlifyCMS',
+  title: 'JURA',
   description: 'A VuePress Site Deployed on Netlify.com by Demo Macro',
   dest: 'pages',
   themeConfig: {
@@ -9,9 +9,9 @@ module.exports = {
       {
         text: 'Projects',
         items: [
-          { text: 'URLStack', link: 'https://abc.imst.xyz' },
-          { text: 'Hexo-NetlifyCMS', link: 'https://hexocms.imst.xyz' },
-          { text: 'Gitbook-NetlifyCMS', link: 'https://gitbook.imst.xyz' }
+          { text: 'tepedu.dk', link: 'https://www.tepedu.dk' },
+          { text: 'edutest.dk', link: 'https://www.edutest.dk' },
+          { text: 'tepedu.dk', link: 'https://www.tepedu.dk' }
         ]
       },
       { text: 'About', link: 'about.md' },
