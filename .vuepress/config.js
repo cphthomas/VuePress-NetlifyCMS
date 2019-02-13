@@ -14,8 +14,8 @@ module.exports = {
           { text: 'tepedu.dk', link: 'https://www.tepedu.dk' }
         ]
       },
-      { text: 'About', link: 'about.md' },
-      { text: 'Admin', link: 'https://vuepress.imst.xyz/admin/' }
+      # { text: 'About', link: 'about.md' },
+      # { text: 'Admin', link: 'https://vuepress.imst.xyz/admin/' }
     ],
 
     sidebar: 'auto',
