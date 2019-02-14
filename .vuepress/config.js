@@ -10,7 +10,8 @@ module.exports = {
         text: 'Links',
         items: [
           { text: 'www.tepedu.dk', link: 'https://www.tepedu.dk' },
-          { text: 'www.edutest.dk', link: 'https://www.edutest.dk' }
+          { text: 'www.tepedu.dk', link: 'https://hexocms.imst.xyz' },
+          { text: 'Gitbook-NetlifyCMS', link: 'https://gitbook.imst.xyz' }
         ]
       },
       { text: 'About', link: 'about.md' },
